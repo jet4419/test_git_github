@@ -3,3 +3,5 @@ new
 git exclude
 
 exclude using git add . and git reset
+
+test unstage

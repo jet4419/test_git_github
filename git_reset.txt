@@ -1,0 +1,5 @@
+git reset - to not add the file in the stage
+new
+git exclude
+
+exclude using git add . and git reset

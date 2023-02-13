@@ -1,0 +1,11 @@
+Hello git and github!
+
+Okay buddy
+
+damn!
+alright
+new
+git exclude
+exclude using git add . and git reset
+git reset --staged sentence.txt - to remove the file from the staging environment
+test unstage
